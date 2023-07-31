@@ -131,7 +131,7 @@ const Hero = ({
               </p>
               <div data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" href="https://forms.gle/dwvDgWGVh86BxsXUA" target="_blank" color="primary" >
+                  <Button tag="a" href="https://forms.gle/1kxDfCf6AHqUJtfMA" target="_blank" color="primary" >
                     I'm interested
                   </Button>
                 </ButtonGroup>
@@ -139,7 +139,7 @@ const Hero = ({
               <div className="m-0 mb-32">
                 <br></br>
                 <p><b><mark>Upcoming Camps:</mark></b></p>
-                <p style={{color:"white"}}>June [SOLD OUT] — July [OPEN] — August [OPEN]</p>
+                <p style={{color:"white"}}>July [SOLD OUT] — August [OPEN] — September [OPEN]</p>
               </div>
             </div>
           </div>
