@@ -128,6 +128,7 @@ const Hero = ({
             <div className="container-l">
               <p className="m-0 mb-32" data-reveal-delay="400" style={{color:"white"}}>
                 The best place for anyone to learn how to code. No experience necessary.
+                Click the button below for a FREE 30 minute coding lesson with David.
               </p>
               <div data-reveal-delay="600">
                 <ButtonGroup>
