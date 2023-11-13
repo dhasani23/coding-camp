@@ -139,7 +139,7 @@ const Hero = ({
               <div className="m-0 mb-32">
                 <br></br>
                 <p><b><mark>Upcoming Camps:</mark></b></p>
-                <p style={{color:"white"}}>July [SOLD OUT] — August [OPEN] — September [OPEN]</p>
+                <p style={{color:"white"}}>November 2023 [SOLD OUT] — December 2023 [OPEN] — January 2024 [OPEN]</p>
               </div>
             </div>
           </div>
