@@ -131,7 +131,7 @@ const Hero = ({
               </p>
               <div data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" href="https://forms.gle/1kxDfCf6AHqUJtfMA" target="_blank" color="primary" >
+                  <Button tag="a" href="https://forms.gle/7f2ByeWpUMP1iGAg6" target="_blank" color="primary" >
                     I'm interested
                   </Button>
                 </ButtonGroup>
