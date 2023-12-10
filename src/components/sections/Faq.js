@@ -6,7 +6,7 @@ const data = {
     rows: [
         {
             title: "How much do you charge?",
-            content: "Attending CodingCamp costs $149 and it comes with six 60-75 minute long sessions (plus a catch-up session) where you learn fundamental coding skills through real-world projects, with all required materials provided.",
+            content: "Attending CodingCamp costs $179 and it comes with six 60-75 minute long sessions (plus a catch-up session) where you learn fundamental coding skills through real-world projects, with all required materials provided.",
         },
         {
             title: "What does a typical session look like?",
@@ -14,7 +14,7 @@ const data = {
         },
         {
             title: "What age group is this recommended for?",
-            content: `We think this camp is best suited for students in grades 4th-8th (intro level) and 9th-12th (intro or advanced level), but feel free to contact us to hear David's specific recommendation for you!`
+            content: `We think this camp is best suited for students in grades 6th-8th (intro level) and 9th-12th (intro or advanced level), but feel free to contact us to hear David's specific recommendation for you!`
         },
         {
             title: "How can I contact you?",
