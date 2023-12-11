@@ -120,15 +120,6 @@ const Hero = ({
             detectRetina: true,
           }}
         />
-        <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDHQTW3RME"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-    
-          gtag('config', 'G-ZDHQTW3RME');
-        </script>
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16" data-reveal-delay="200">
