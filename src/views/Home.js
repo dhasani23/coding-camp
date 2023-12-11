@@ -9,15 +9,6 @@ const Home = () => {
 
   return (
     <>
-      <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDHQTW3RME"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-  
-        gtag('config', 'G-ZDHQTW3RME');
-      </script>
       <Hero className="illustration-section-01" />
       <FeaturesTiles />
       <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
