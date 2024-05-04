@@ -136,11 +136,6 @@ const Hero = ({
                   </Button>
                 </ButtonGroup>
               </div>
-              <div className="m-0 mb-32">
-                <br></br>
-                <p><b><mark>Upcoming Camps:</mark></b></p>
-                <p style={{color:"white"}}>January 2024 [SOLD OUT] — February 2024 [OPEN] — March 2024 [OPEN]</p>
-              </div>
             </div>
           </div>
         </div>
