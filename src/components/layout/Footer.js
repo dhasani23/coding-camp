@@ -42,7 +42,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             {/* <FooterNav /> */}
-            <div className="footer-copyright">© 2023 CodingCamp</div>
+            <div className="footer-copyright">© 2024 CodingCamp</div>
           </div>
         </div>
       </div>
